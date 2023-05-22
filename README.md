@@ -4,7 +4,7 @@
 
 node index.js --action list
 
-https://ibb.co/6WQwZQF.png
+https://ibb.co/6WQwZQF
 
 ## Get contact by id
 
@@ -15,6 +15,7 @@ https://ibb.co/6WQwZQF
 ## Add the contact
 
 node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-22
+
 https://ibb.co/6WQwZQF
 
 ## Delete the contact
