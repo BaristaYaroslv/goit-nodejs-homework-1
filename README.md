@@ -4,7 +4,7 @@
 
 node index.js --action list
 
-https://ibb.co/6WQwZQF
+https://ibb.co/ssSmV9w
 
 ## Get contact by id
 
